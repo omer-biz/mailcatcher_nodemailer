@@ -1,6 +1,7 @@
 # mailcatcher_nodemailer
 
-Testing nodemailer with mailcatcher
+Testing nodemailer with mailcatche,
+test nodemailer locally
 
 # source
 
